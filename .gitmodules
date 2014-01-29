@@ -1,0 +1,3 @@
+[submodule "cocos2dx-tooflya-sdk-html5"]
+	path = cocos2dx-tooflya-sdk-html5
+	url = git@github.com:IgorMats/cocos2dx-tooflya-sdk-html5.git

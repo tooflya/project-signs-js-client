@@ -1,0 +1,8 @@
+AddDefaultCharset utf-8
+Options +FollowSymLinks
+IndexIgnore */*
+
+RewriteEngine on
+
+RewriteRule ^/?main.js$ cocos2dx-tooflya-sdk-html5/main.js [L]
+RewriteRule ^/?cocos2d.js$ cocos2dx-tooflya-sdk-html5/cocos2d.js [L]
